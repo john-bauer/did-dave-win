@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/john-bauer/did-dave-win/issues"
   },
-  "homepage": "https://github.com/john-bauer/did-dave-win#readme"
+  "homepage": "https://github.com/john-bauer/did-dave-win#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
